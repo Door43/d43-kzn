@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzn:home|Door43 (kzn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzn|d43-kzn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzn/archive/master.zip|d43-kzn.zip]]
+
+**Recent Changes**
+{{changes>ns = kzn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzn|Ethnologue data]]
+
